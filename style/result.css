@@ -1,0 +1,65 @@
+nav{
+    padding: 15px;
+    background:rgb(73, 73, 165);
+}
+.nav-items {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color:white;
+}
+.nav-items a{
+    color: #ffffff
+}
+footer{
+    text-align: center;
+    background:rgb(73, 73, 165);
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    padding: 8px
+}
+
+#section1 {padding-top:50px;height:500px;color: #fff; background-color: rgb(160, 210, 253);}
+#section2 {padding-top:50px;height:500px;color: #fff; background-color: #b188f8;}
+#section3 {padding-top:50px;height:500px;color: #fff; background-color: #fad192;}
+#section4 {padding-top:50px;height:500px;color: #fff; background-color: #7be8f7;}
+
+button a{
+    color: black
+}
+button a:hover{
+    background: grey;
+    color: black;
+    text-decoration: unset
+}
+button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 23px;
+    padding-right: 23px;
+    margin-bottom: -15px;
+    font-size: 30px
+}
+.navbar-header{
+    margin-left:-30px
+}
+table{
+    border:2px solid white;
+}
+td{
+    font-size: 24px;
+    text-align:center;
+
+}
+th{
+    text-align: center
+}
+td a{
+color: black
+}
+td a:hover{
+    color:white
+}
+#section3 img{
+    margin: 10px
+}

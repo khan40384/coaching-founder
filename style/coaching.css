@@ -1,0 +1,37 @@
+nav{
+    padding: 15px;
+    background:rgb(73, 73, 165);
+}
+.nav-items {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color:white;
+}
+.nav-items a{
+    color: #ffffff
+}
+.institutes{
+    margin-left: 50px;
+    margin-top: 5px;
+    font-size: large;
+    font-style: oblique
+}
+td p{
+    text-align: center
+}
+footer{
+    text-align: center;
+    background:rgb(73, 73, 165);
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    padding: 8px
+}
+form{
+    margin:20px;
+    float: right
+}
+form button{
+    width:140px;
+    height:40px;
+}
